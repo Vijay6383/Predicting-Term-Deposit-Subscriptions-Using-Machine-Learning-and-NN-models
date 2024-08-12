@@ -49,6 +49,7 @@ Clone the project
 Go to the project directory
 
 ```bash
+  cd Predicting-Term-Deposit-Subscriptions-Using-Machine-Learning-and-NN-models
   cd Predicting\ Term\ deposit\ Subscription
 ```
 
@@ -59,7 +60,7 @@ Install dependencies
 ```
 Run File 
 ```
- Predicting Term Deposit Subscriptions Using Machine Learning.ipynb
+  jupyter notebook "Predicting Term Deposit Subscriptions Using Machine Learning.ipynb"
 ```
 
 
